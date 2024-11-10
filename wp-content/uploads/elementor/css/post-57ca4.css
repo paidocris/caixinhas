@@ -1,0 +1,25 @@
+.elementor-kit-5{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Lora";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Lora";--e-global-typography-secondary-font-weight:600;--e-global-typography-text-font-family:"Lora";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Lora";--e-global-typography-accent-font-weight:600;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1280px;}.e-con{--container-max-width:1280px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Lora';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2024/07/Lora-Regular.eot');
+	src: url('../../2024/07/Lora-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2024/07/Lora-Regular.woff2') format('woff2'),
+		url('../../2024/07/Lora-Regular.woff') format('woff'),
+		url('../../2024/07/Lora-Regular.ttf') format('truetype'),
+		url('../../2024/07/Lora-Regular.svg#Lora') format('svg');
+}
+@font-face {
+	font-family: 'Lora';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2024/07/Lora-SemiBold.eot');
+	src: url('../../2024/07/Lora-SemiBoldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2024/07/Lora-SemiBold.woff2') format('woff2'),
+		url('../../2024/07/Lora-SemiBold.woff') format('woff'),
+		url('../../2024/07/Lora-SemiBold.ttf') format('truetype'),
+		url('../../2024/07/Lora-SemiBold.svg#Lora') format('svg');
+}
+/* End Custom Fonts CSS */
